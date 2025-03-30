@@ -35,9 +35,18 @@ const markdownFiles = glob.sync(`${contentDir}/**/*.md`);
 
 markdownFiles.forEach(file => {
   console.log(`- Processing Markdown: ${file}...`);
-  const markdownText = fs.readFileSync(file, 'utf8');
+
+  let markdownText = fs.readFileSync(file, 'utf8');
+
+  // Update image references to point to the new /images path
+  const dirName = path.dirname(file).replace(contentDir, '');
+  markdownText = markdownText.replace(
+    /<img\s+src="([^"]+)"/g, 
+    (match, src) => {
+      return `<img src="../${dirName}/${src}"`;
+    }
+  );
   const htmlContent = marked.parse(markdownText);
-  
   const relativePath = path.relative(contentDir, file);
   const outputPath = path.join(processedContentDir, relativePath.replace('.md', '.html'));
   
@@ -82,17 +91,37 @@ files.forEach(file => {
   const relativePath = path.relative('./pages', file);
   const outputPath = path.join(outputDir, relativePath);
   
-  // Ensure the output directory exists
+  // Ensure the output directory exists and write the processed file
   fs.mkdirSync(path.dirname(outputPath), { recursive: true });
-  
-  // Write processed file to output directory
   fs.writeFileSync(outputPath, content);
 });
 
 // Copy CSS files
+console.log("Copying CSS files...");
 fs.cpSync('./css', path.join(outputDir, 'css'), { recursive: true });
 
 // Copy components for runtime loading (only needed if not fully pre-processed)
+console.log("Copying components...");
 fs.cpSync('./components', path.join(outputDir, 'components'), { recursive: true });
+
+// Copy image files from content directory
+console.log("Copying image files...");
+const imageExtensions = ['.jpg'];
+const imageFiles = glob.sync(`${contentDir}/**/*.*`).filter(file => {
+  const ext = path.extname(file).toLowerCase();
+  return imageExtensions.includes(ext);
+});
+console.log(`Found ${imageFiles.length} images to copy`);
+
+// Copy each image to the public directory maintaining the same structure
+imageFiles.forEach(file => {
+  const relativePath = path.relative(contentDir, file);
+  // Copy to public/content/[path] to maintain original structure
+  const outputPath = path.join(outputDir, 'content', relativePath);
+  
+  // Ensure the output directory exists and copy
+  fs.mkdirSync(path.dirname(outputPath), { recursive: true });
+  fs.copyFileSync(file, outputPath);
+});
 
 console.log('\nBuild complete!'); 
