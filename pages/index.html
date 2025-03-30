@@ -24,7 +24,19 @@
         <h2>
             Writing
         </h2>
-        <ul>
+        <ul class="cutoff-list">
+            <li> 
+                <span>
+                    <a href="https://paragraph.xyz/@onit/onit-prediction-markets">2025/03</a>: 
+                    Introducing Onit Prediction Markets
+                </span>
+            </li>
+            <li> 
+                <span>
+                    <a href="https://paragraph.xyz/@jamesmccomish/probability-density-function-library-in-solidity">2025/03</a>: 
+                    Probability Density Function Library in Solidity
+                </span>
+            </li>
             <li> 
                 <span>
                     <a href="https://paragraph.xyz/@jamesmccomish/first-month-in-berlin">2024/10</a>: 
@@ -122,3 +134,17 @@
         </p>
     </body>
 </html>
+
+<!-- Ellipse the article titles list only -->
+<style>
+    .cutoff-list {
+        width: 100%;
+    }
+    .cutoff-list li span {
+        display: block;
+        max-width: 90%;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+</style>
