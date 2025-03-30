@@ -1,0 +1,16 @@
+{
+  "name": "jamco-site",
+  "description": "My website",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "bun http-server ",
+    "build": "bun build.js",
+    "start": "bun build.js && bun http-server"
+  },
+  "dependencies": {
+    "http-server": "^14.1.1",
+    "marked": "^15.0.7",
+    "glob": "^10.3.10"
+  }
+}
