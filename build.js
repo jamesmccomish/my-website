@@ -88,6 +88,58 @@ files.forEach(file => {
     }
   });
   
+  // Special handling for the reading table
+  if (file.includes('reading.html')) {
+    console.log("Processing reading CSV file...");
+    try {
+      const csvPath = path.join(contentDir, 'reading', 'reading.csv');
+      if (fs.existsSync(csvPath)) {
+        const csvData = fs.readFileSync(csvPath, 'utf8');
+        const rows = csvData.split('\n');
+        
+        let tableRows = '';
+        
+        // Process rows starting from index 1 to skip header
+        for (let i = 1; i < rows.length; i++) {
+          if (!rows[i].trim()) continue;
+          
+          // Parse CSV properly handling quoted values
+          const values = [];
+          let insideQuotes = false;
+          let currentValue = '';
+          
+          for (let char of rows[i]) {
+            if (char === '"') {
+              insideQuotes = !insideQuotes;
+            } else if (char === ',' && !insideQuotes) {
+              values.push(currentValue);
+              currentValue = '';
+            } else {
+              currentValue += char;
+            }
+          }
+          values.push(currentValue);
+          
+          // Clean values of quotes
+          const cleanValues = values.map(value => value.replace(/^"|"$/g, ''));
+          
+          // Create table row
+          tableRows += '<tr>';
+          cleanValues.forEach(value => {
+            tableRows += `<td>${value}</td>`;
+          });
+          tableRows += '</tr>\n';
+        }
+        
+        // Replace placeholder with generated rows
+        content = content.replace(/<tbody id="table-body">\s*<!-- Will be populated at build time -->\s*<\/tbody>/s, 
+          `<tbody id="table-body">\n${tableRows}</tbody>`);
+      }
+    } catch (error) {
+      console.error(`Error processing reading CSV: ${error.message}`);
+    }
+  }
+  
   const relativePath = path.relative('./pages', file);
   const outputPath = path.join(outputDir, relativePath);
   

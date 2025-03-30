@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+<head id="head-content"></head>
+<body>
+    <h1>
+        James McComish
+    </h1>
+    <p class='nav'>
+        <a href="../index.html">Home</a> / Reading
+    </p>
+    <div id="content" data-markdown-src="../../content/reading/reading-intro.md"></div>
+    
+    <div id="reading-table-container">
+        <table>
+            <thead>
+                <tr>
+                    <th>Rating <span class="sort-indicator" data-sort-column="0" data-sort-direction="asc">▲</span></th>
+                    <th>Name</th>
+                    <th>Author <span class="sort-indicator" data-sort-column="2" data-sort-direction="asc"></span></th>
+                </tr>
+            </thead>
+            <tbody id="table-body">
+                <!-- Will be populated at build time -->
+            </tbody>
+        </table>
+    </div>
+
+    <p class='nav'>
+        <a href="../index.html">Home</a> | <a href="./photos.html">Next Project</a>
+    </p>
+
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 100%;
+            margin-top: 2em;
+            margin-bottom: 2em;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 8px;
+            max-width: 400px;
+            word-wrap: break-word;
+        }
+        th {
+            position: relative;
+            cursor: pointer;
+        }
+        th:hover {
+            background-color: #f5f5f5;
+        }
+        .sort-indicator {
+            display: inline-block;
+            margin-left: 5px;
+        }
+    </style>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const tableHeaders = document.querySelectorAll('th');
+            tableHeaders.forEach(header => {
+                header.addEventListener('click', () => {
+                    const sortColumn = header.querySelector('.sort-indicator')?.dataset.sortColumn;
+                    if (sortColumn) {
+                        sortTable(parseInt(sortColumn));
+                    }
+                });
+            });
+
+            function sortTable(columnIndex) {
+                const table = document.querySelector('table');
+                const tbody = document.getElementById('table-body');
+                const rows = Array.from(tbody.querySelectorAll('tr'));
+                const header = document.querySelector(`th:nth-child(${columnIndex + 1})`);
+                const indicator = header.querySelector('.sort-indicator');
+                
+                // Clear all other indicators
+                document.querySelectorAll('.sort-indicator').forEach(ind => {
+                    if (ind !== indicator) ind.textContent = '';
+                });
+
+                // Toggle sort direction
+                const currentDirection = indicator.dataset.sortDirection || 'asc';
+                const newDirection = currentDirection === 'asc' ? 'desc' : 'asc';
+                indicator.dataset.sortDirection = newDirection;
+                indicator.textContent = newDirection === 'asc' ? '▲' : '▼';
+
+                // Sort the rows
+                rows.sort((a, b) => {
+                    let valueA = a.cells[columnIndex].textContent.trim();
+                    let valueB = b.cells[columnIndex].textContent.trim();
+                    
+                    // Special handling for rating column
+                    if (columnIndex === 0) {
+                        const ratingValue = {
+                            '*': 3,
+                            '+': 2,
+                            '-': 1,
+                            '': 0
+                        };
+                        
+                        valueA = ratingValue[valueA] || 0;
+                        valueB = ratingValue[valueB] || 0;
+                        
+                        return newDirection === 'asc' 
+                            ? valueA - valueB 
+                            : valueB - valueA;
+                    } else {
+                        // Regular string comparison
+                        return newDirection === 'asc' 
+                            ? valueA.localeCompare(valueB) 
+                            : valueB.localeCompare(valueA);
+                    }
+                });
+
+                // Reorder the rows
+                rows.forEach(row => tbody.appendChild(row));
+            }
+        });
+    </script>
+</body>
+</html>
