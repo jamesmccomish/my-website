@@ -43,7 +43,9 @@ markdownFiles.forEach(file => {
   markdownText = markdownText.replace(
     /<img\s+src="([^"]+)"/g, 
     (match, src) => {
-      return `<img src="../${dirName}/${src}"`;
+      const depth = dirName.split('/').filter(Boolean).length;
+      const upLevels = '../'.repeat(depth + 1);
+      return `<img src="${upLevels}${dirName}/${src}"`;
     }
   );
   const htmlContent = marked.parse(markdownText);
