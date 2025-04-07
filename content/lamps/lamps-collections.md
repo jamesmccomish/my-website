@@ -1,43 +1,10 @@
 <div style="margin-top: 2em;">
 
 <style>
-      .lamp-collection {
+  .lamp-collection {
     margin-bottom: 1em;
   }
   
-  .lamp-grid {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 2px;
-    margin-bottom: 2em;
-  }
-  
-  .lamp-grid-three {
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    gap: 2px;
-    margin-bottom: 2em;
-  }
-  
-  .full-width {
-    grid-column: 1 / span 2;
-  }
-  
-  .full-width-three {
-    grid-column: 1 / span 3;
-  }
-  
-  img {
-    width: 100%;
-    height: auto;
-  }
-  
-  .lamp-grid > img:not(.full-width),
-  .lamp-grid-three > img:not(.full-width-three) {
-    aspect-ratio: 1/1;
-    object-fit: cover;
-  }
-
   .lamp-collection h2 {
     margin-bottom: 0;
   }
@@ -48,12 +15,12 @@
     font-style: italic;
     margin-bottom: 0.5em;
   }
-
+  
   .collection-description {
     margin-bottom: 1em;
     font-size: 0.8em;
   }
-
+  
   .caption {
     text-align: center;
     font-style: italic;
@@ -61,7 +28,36 @@
     font-size: 0.8em;
     margin-top: 0.4em;
   }
-
+  
+  .lamp-grid,
+  .lamp-grid-three {
+    display: grid;
+    gap: 2px;
+    margin-bottom: 2em;
+  }
+  
+  .lamp-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+  
+  .lamp-grid-three {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+  
+  .full-width {
+    grid-column: 1 / -1;
+  }
+  
+  img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .lamp-grid > img:not(.full-width),
+  .lamp-grid-three > img:not(.full-width) {
+    aspect-ratio: 1;
+    object-fit: cover;
+  }
 </style>
 
 <div class="lamp-collection">
@@ -208,7 +204,7 @@
 
 <div class="lamp-collection">
   <h2>Occupation</h2>
-  <div class="collection-date">Feb 2020</div>
+  <div class="collection-date">May 2020</div>
   <p class="collection-description">
     Occupation was a series of work made over the Covid quarantine, forged from the pits of extereme boredom. They were unvieled at the Inside Out art exhibition in summer 2020.
     <br>
@@ -237,7 +233,7 @@
 
 <div class="lamp-collection">
   <h2>Tube Runner</h2>
-  <div class="collection-date">Feb 2020</div>
+  <div class="collection-date">Aug 2020</div>
   <div class="lamp-grid">
     <img src="tr-banner1.jpg" alt="Tube Runner banner" loading="lazy" class="full-width">
     <img src="tr-corner.jpg" alt="Tube Runner corner" loading="lazy">
@@ -250,7 +246,7 @@
 
 <div class="lamp-collection">
   <h2>Lighthouse</h2>
-  <div class="collection-date">Feb 2020</div>
+  <div class="collection-date">Sep 2020</div>
   <div class="lamp-grid">
     <img src="lighthouse-banner.jpg" alt="Lighthouse banner" loading="lazy" class="full-width">
     <img src="lighthouse-red-off.jpg" alt="Lighthouse red off" loading="lazy">
@@ -263,7 +259,7 @@
 
 <div class="lamp-collection">
   <h2>Colour Wheel</h2>
-  <div class="collection-date">Feb 2020</div>
+  <div class="collection-date">Sep 2020</div>
   <p class="collection-description">
     The installation takes the simple concept of the colour wheel and turns it into a ever changing and trancy light show.
     <br>
@@ -271,7 +267,7 @@
     The four LED tubes provide the four main colours of the colour wheel around the edges of a freely suspended white circle. The colours blend and mix to produce the full spectrum of colours across the central circle, and various sequences are programmed to run in order to highlight the possibilities of different blends of colour.
   </p>
   <div class="lamp-grid-three" style="margin-bottom: 2px;">
-    <img src="cw-low.jpg" alt="Colour Wheel banner" loading="lazy" class="full-width-three">
+    <img src="cw-low.jpg" alt="Colour Wheel banner" loading="lazy" class="full-width">
     <img src="cw-blue-red.jpg" alt="Colour Wheel off" loading="lazy">
     <img src="cw-purple-orange.jpg" alt="Colour Wheel on" loading="lazy">
     <img src="cw-red-green.jpg" alt="Colour Wheel on" loading="lazy">

@@ -85,7 +85,7 @@ Raval was a mental place. It was one of the most central parts of Barcelona, but
       <figcaption>He was a wizzard, Harry (Feb 2020)</figcaption>
     </div>
     <div class="image-container">
-      <div style="display: flex; flex-direction: row; gap:2px">
+      <div style="display: flex; flex-direction: row; gap:2px; margin-bottom: 0.5em;">
         <img src="pink-slippers-for-sale-heavily-worn.jpg" style="width: 50%"/>
         <img src="pink-slippers.jpg" style="width: 50%"/>
       </div>
@@ -97,7 +97,7 @@ Raval was a mental place. It was one of the most central parts of Barcelona, but
     </div>
     <div class="image-container">
       <div style="display: flex; flex-direction: column">
-        <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 4px;">
+        <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 4px; margin-bottom: 0.5em;">
           <img src="i-partridge-1.jpg" style="width: 100%; aspect-ratio: 1;" loading="lazy">
           <img src="i-partridge-2.jpg" style="width: 100%; aspect-ratio: 1;" loading="lazy">
           <img src="i-partridge-3.jpg" style="width: 100%; aspect-ratio: 1;" loading="lazy">
@@ -115,7 +115,7 @@ Raval was a mental place. It was one of the most central parts of Barcelona, but
       <figcaption>Upside Down (Mar 2020)</figcaption>
     </div>
     <div class="image-container">
-      <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 4px;">
+      <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 4px; margin-bottom: 0.5em;">
         <img src="fridge-open.jpg" />
         <img src="fridge-leaning.jpg" />
         <img src="fridge-robert.jpg" />
@@ -128,7 +128,7 @@ Raval was a mental place. It was one of the most central parts of Barcelona, but
       <figcaption>Flying without wings (Apr 2020)</figcaption>
     </div>
     <div class="image-container">
-      <div style="display: flex; flex-direction: row; gap:2px">
+      <div style="display: flex; flex-direction: row; gap:2px; margin-bottom: 0.5em;">
         <img src="splat.jpg" style="width: 50%"/>
         <img src="splat-2.jpg" style="width: 50%"/>
       </div>
@@ -143,7 +143,7 @@ Raval was a mental place. It was one of the most central parts of Barcelona, but
       <figcaption>Binheaded (Dec 2019)</figcaption>
     </div>
     <div class="image-container">
-      <div style="display: flex; flex-direction: row; gap:2px">
+      <div style="display: flex; flex-direction: row; gap:2px; margin-bottom: 0.5em;">
         <img src="fountain-shoes.jpg" style="width: 33%"/>
         <img src="corte-raval.jpg" style="width: 33%"/>
         <img src="corte-raval-1.jpg" style="width: 33%"/>
@@ -155,7 +155,7 @@ Raval was a mental place. It was one of the most central parts of Barcelona, but
       <figcaption>Two Men Five Wheels (Nov 2019)</figcaption>
     </div>
     <div class="image-container">
-      <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 4px;">
+      <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 4px; margin-bottom: 0.5em;">
         <img src="raval-recliner-old.jpg" />
         <img src="raval-recliner-process.jpg" />
         <img src="raval-recliner-rambla.jpg" />
@@ -232,7 +232,7 @@ Raval was a mental place. It was one of the most central parts of Barcelona, but
       <figcaption>Better Luck Next Time (Aug 2020)</figcaption>
     </div>
     <div class="image-container">
-      <div style="display: flex; flex-direction: row; gap:2px">
+      <div style="display: flex; flex-direction: row; gap:2px; margin-bottom: 0.5em;">
         <img src="sofa-problem.jpg" style="width: 50%"/>
         <img src="sofa-problem-2.jpg" style="width: 50%"/>
       </div>

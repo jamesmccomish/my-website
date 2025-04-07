@@ -27,15 +27,11 @@ h2 {
 
 p {
     font-size: 1em;
+    margin-bottom: 1em;
 }
 
 ul {
     padding-left: 1em;
-    margin-bottom: 1em;
-}
-
-.nav {
-    margin-top: 1em;
     margin-bottom: 1em;
 }
 
