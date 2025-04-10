@@ -4,21 +4,21 @@
 <div style="margin-bottom: 1em;"></div>
 
 <p>
-I moved to Barcelona in summer 2017 without much of a plan, mostly because it was a nice place, I heard it was good for startups, and Ben was moving back after having lived there the year before. Over my first few months I drifted around and done random things to avoid having to get an actual job. I would fix up furniture I found on the street and sell it on a second hand site, I worked part time at a Japanese restaurant (Koku), and I spent a lot of time reading. Eventually (about 4 months later) I completely ran out of money and had to move back to London, where I went to uni, for a few months to work on a project to earn enough to live in Barcelona some more. 
+I moved to Barcelona in summer 2017 without much of a plan, mostly because it was a nice place, I heard it was good for startups, and Ben was moving back after having lived there the year before. For a few months I drifted around and done random things to avoid having to get an actual job. I would fix up furniture that I found on the street and sell it on a second hand site, I worked part time at a Japanese restaurant (Koku), and I spent a lot of time reading. Eventually (about 4 months later) I completely ran out of money and had to move back to London, where I went to uni, for a few months to work on a project to earn enough to live in Barcelona some more. 
 </p>
 
 <p>
-When I came back I finally got an actual job working as an engineer at a startup called Roboyo. Although I’d spend about 35 of my first 52 weeks at Royobo travelling for work, I kept up my interest in furniture and tried to build things over the weekends when I was in Barcelona. Alicia gave me a box of stuff as she was moving out of her flat and since she was an architect, the box had some cool things in it. One of those things was a small bicycle wheel which I thought could be made into something fun. After a few weekends messing about with it and other items from the box, the obvious thing to build was a lamp.  
+When I came back I finally got an actual job working as an engineer at a startup called Roboyo. Although I’d spend about 35 of my first 52 weeks at Roboyo travelling for work, I kept up my interest in furniture and tried to build what I could over the weekends when I was in Barcelona. Alicia was moving out of her flat so she left a box of stuff with me, and since she was an architect, the box had some cool tools and materials in it. One of the best things was a small bicycle wheel which I thought could be made into something fun. After a few weekends messing about with it and other items from the box, the obvious thing to build was a lamp.  
 </p>
 
 <figure style="display: flex; flex-direction: column; align-items: center; width: 100%;">
     <img src="merrylegs-main.jpg" alt="Wheel lamp" loading="lazy" style="width: 100%;">
-    <figcaption style="margin-top: 0.5em; font-style: italic; color: #666; font-size: 0.8em;">The first lamp I made, courtesy of a wheel from Alicia</figcaption>
+    <figcaption>The first lamp I made, courtesy of a wheel from Alicia</figcaption>
 </figure>
 <div style="margin-bottom: 1em;"></div>
 
 <p>
-Since I had to buy tools and materials to make the first lamp, I decided I’d put them to good use by building a few other lamps too. These other ideas required even more tools, and so again I messed about with building more lamps which I’d sketched out along the way. Eventually I started designing in CAD and experimenting with new materials like steel and concrete. The first series which transitioned from hacking together random objects and towards a more serious design process featured lamps made from 12 steel poles arranged around a concrete block. The series was called Trinity cause the initial design was supposed to be more like a mushroom cloud from an explosion, but that actually looked awful as a lamp so I scrapped it but kept the name. They ended up being more jellyfish-like by the end, and it was fun to make the heavy materials appear to kinda float. 
+Since I had to buy some tools and lamp paraphernalia for this project, I decided I’d put them to good use by building a few other lamps too. These other ideas required even more tools, and so again I messed about with building more lamps which I’d sketched out along the way. Eventually I started designing in CAD and experimenting with new materials like steel and concrete. The first series which transitioned from hacking together random objects and towards a more serious design process featured lamps made from 12 steel poles arranged around a concrete block. The series was called Trinity cause the initial design was supposed to be like a mushroom cloud from an explosion, but that looked awful as a lamp so I scrapped it but kept the name. They ended up being more jellyfish-like by the end, and it was fun to make the heavy materials appear to kinda float. 
 </p>
   
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 4px; width: 100%;">
@@ -27,11 +27,11 @@ Since I had to buy tools and materials to make the first lamp, I decided I’d p
     <img src="sputnik-on.jpg" alt="Sputnik" loading="lazy" style="width: 100%;">
     <img src="a1.jpg" alt="A1" loading="lazy" style="width: 100%;">
 </div>
-<figcaption style="margin-top: 0.5em; font-style: italic; color: #666; font-size: 0.8em; text-align: center;">4 Lamps from the Trinity series. Clockwise TL: Riot Van, Jellyfish, Sputnik, A1</figcaption>
+<figcaption>4 Lamps from the Trinity series. Clockwise TL: Riot Van, Jellyfish, Sputnik, A1</figcaption>
 <div style="margin-bottom: 1em;"></div>
 
 <p>
-By the end of 2019 the lamps had levelled up from a hobby to a side income, and I was selling them and attending a lot of design events and markets around Barcelona. The lamps themselves were getting more adventurous, and since I was now selling them, the process of making them had to get a lot better too. Both those things were problems cause I was still working out of my bedroom. I had a corner dedicated to setting concrete, a desk for cutting metal, and then decided that I needed a second workbench for assembly more than a bed, so I sold that and built a standing desk with a 70cm wide truck bed below for sleeping. 
+By the end of 2019 the lamps had levelled up from a hobby to a side income, and I was selling them and attending a lot of design events and markets around Barcelona. The lamps themselves were getting more adventurous, and since people were actually buying them, the process of making them had to get a lot better too. Both those things were problems cause I was still working out of my bedroom. I had a corner dedicated to setting concrete, a desk for cutting metal, and then decided that I needed a second workbench for assembly more than a bed, so I sold that and built a standing desk with a 70cm wide truck bed below for sleeping. 
 </p>
 
 <div style="display: flex; gap: 4px; width: 100%;">
@@ -39,7 +39,7 @@ By the end of 2019 the lamps had levelled up from a hobby to a side income, and 
     <img src="desk-use-1.jpg" alt="Bed and workbench" style="width: 33.33%;" loading="lazy">
     <img src="desk-use-2.jpg" alt="Bed and workbench" style="width: 33.33%;" loading="lazy">
 </div>
-<figcaption style="margin-top: 0.5em; font-style: italic; color: #666; font-size: 0.8em; text-align: center;">My bed / workbench when I started building bigger lamps.</figcaption>
+<figcaption>My bed / workbench when I started building bigger lamps.</figcaption>
 <div style="margin-bottom: 1em;"></div>
 
 <p>
@@ -51,7 +51,7 @@ Since everything was closed I had a lot of free time, and since I was still work
 </p>
 
 <img src="occupation-banner.jpg" alt="Occupation series at the Inside Out exhibition" loading="lazy" style="width: 100%;">
-    <figcaption style="font-style: italic; color: #666; font-size: 0.8em; text-align: center;">Occupation: A collection of lamps and sculptures made during lockdown</figcaption>
+    <figcaption>Occupation: A collection of lamps and sculptures made during lockdown</figcaption>
 <div style="margin-bottom: 1em;"></div>
 
 <p>
@@ -59,7 +59,7 @@ I met some great arty people at events over the previous couple of years, and I 
 </p>
 
 <img src="inside-out-info.jpg" alt="Inside Out Exhibition" style="width: 100%;" loading="lazy">
-<figcaption style="font-style: italic; color: #666; font-size: 0.8em; text-align: center;">Booklet for the Inside Out exhibition</figcaption>
+<figcaption>Booklet for the Inside Out exhibition</figcaption>
 <div style="margin-bottom: 1em;"></div>
 
 <p>
@@ -67,7 +67,7 @@ Coming out of the lockdowns at the end of 2020, I was shifting away from the mor
 </p>
 
 <img src="cw-banner.jpg" alt="Colour Wheel Installation" loading="lazy" style="width: 100%;">
-<figcaption style="font-style: italic; color: #666; font-size: 0.8em; text-align: center">Colour Wheel: An installation built for an event in Barcelona, September 2020</figcaption>
+<figcaption>Colour Wheel: An installation built for an event in Barcelona, September 2020</figcaption>
 <div style="margin-bottom: 1em;"></div>
 
 <p>
@@ -79,15 +79,12 @@ I was as excited about going full time on the lamps as before, and reevaluated t
 <img src="metro-off.jpg" alt="Metro" style="width: 33.33%;" loading="lazy">
 <img src="zero-front.jpg" alt="Zero" style="width: 33.33%;" loading="lazy"> 
 </div>
-<figcaption style="margin-top: 0.5em; font-style: italic; color: #666; font-size: 0.8em; text-align: center;">Tube Runner (Aug 2020), Metro (June2020), Zero (Jan 2021) </figcaption>
+<figcaption>Tube Runner (Aug 2020), Metro (June2020), Zero (Jan 2021) </figcaption>
 <div style="margin-bottom: 1em;"></div>
 
-<p>
-While playing about with the 3D printer I started to have fun with programming again after having moved away from engineering at Roboyo when I went part time a few years before. When I realised I wasn't going to push ahead with the lamps, I was open to doing something new, and took some time in mid 2021 to again drift around and read. I briefly entertained the idea of studying physics and even started getting back into maths to prep. It was an even worse financial decision than the lamps so obviously didn't go ahead, but it did lead me to a conversation with Peter that was the beginning of another project, Socii. 
-</p>
+While playing about with the 3D printer I started to have fun with programming again after having moved away from engineering at Roboyo when I went part time a few years before. When I realised I wasn't going to push ahead with the lamps, I was open to doing something new, and took some time in mid 2021 to again drift around and read a bit. I briefly entertained the idea of studying physics and even started getting back into maths to prep. It was an even worse financial decision than the lamps so obviously didn't go ahead, but it did lead me to a conversation with Peter that was the beginning of another project, [Socii](../socii). 
 
-<p>
-The lamps were a great experiment and certainly one of the most enjoyable ways I have ever earned money in my life. Being able to have the hobby fund itself and allow me to buy parts to experiment and buy a 3D printer to grow was awesome, and it was rewarding to see people actually buy some of those experiments that worked. When people ask I still say the lamp work is on hold, I do plan to get back into this at some point, but it's likely a lot of years away, and I'm not sure wtf lamps are going to look like by then. If you ever bought a lamp or gave feedback on one, thank you very much for the support, and if you'd like to put in a long-term pre-order for the return, please get in touch.   
-</p>
+The lamps were a great project and certainly one of the most enjoyable ways I have ever earned money in my life. Playing about with new materials, making parts with the 3D printer, and seeing people actually buy some of the experiments that worked was fun.
 
+ When people ask I still say the lamp work is on hold, I do plan to get back into this at some point, but it's likely a lot of years away, and I'm not sure wtf lamps are going to look like by then. If you ever bought a lamp or gave feedback on one, thank you very much for the support, and if you'd like to put in a long-term pre-order for the return, please get in touch.   
   

@@ -35,6 +35,14 @@ ul {
     margin-bottom: 1em;
 }
 
+figcaption {
+    text-align: center;
+    font-style: italic;
+    color: #666;
+    font-size: 0.8em;
+    margin-top: 0.4em;
+}
+
 .info-section {
     margin-top: 2em;
     margin-bottom: 2em;

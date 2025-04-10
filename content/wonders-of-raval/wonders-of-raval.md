@@ -20,12 +20,6 @@ Raval was a mental place. It was one of the most central parts of Barcelona, but
   height: auto;
   loading: lazy;
 }
-.image-container figcaption {
-  text-align: center;
-  font-style: italic;
-  color: #666;
-  font-size: 0.8em;
-}
 </style>
 
 <div style="width: 90%; margin: 0 auto;">

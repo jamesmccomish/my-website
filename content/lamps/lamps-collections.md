@@ -21,14 +21,6 @@
     font-size: 0.8em;
   }
   
-  .caption {
-    text-align: center;
-    font-style: italic;
-    color: #666;
-    font-size: 0.8em;
-    margin-top: 0.4em;
-  }
-  
   .lamp-grid,
   .lamp-grid-three {
     display: grid;
@@ -146,9 +138,9 @@
     <img src="a1-top.jpg" alt="Trinity lamp 14" loading="lazy">
     <img src="a1-front.jpg" alt="Trinity lamp 13" loading="lazy">
   </div>
-  <p class="caption">
+  <figcaption>
     From top. Trinity, Riot Van, Sputnik, Jellyfish, A1.
-  </p>
+  </figcaption>
 </div>
 
 <div class="lamp-collection">
