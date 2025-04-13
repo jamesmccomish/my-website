@@ -43,7 +43,27 @@ figcaption {
     margin-top: 0.4em;
 }
 
+img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
 .info-section {
     margin-top: 2em;
     margin-bottom: 2em;
+}
+
+.photo-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 4px;
+    margin-bottom: 1em;
+  }
+
+/* Target images specifically within photo grid */
+img,
+.photo-grid img {
+    max-width: 100%;
+    object-fit: cover;
 }

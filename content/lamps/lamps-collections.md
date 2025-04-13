@@ -40,11 +40,6 @@
     grid-column: 1 / -1;
   }
   
-  img {
-    width: 100%;
-    height: auto;
-  }
-  
   .lamp-grid > img:not(.full-width),
   .lamp-grid-three > img:not(.full-width) {
     aspect-ratio: 1;

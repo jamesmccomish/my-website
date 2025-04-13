@@ -3,7 +3,6 @@ import path from 'path';
 import { glob } from 'glob';
 import { marked } from 'marked';
 
-// Process HTML and Markdown files in the pages directory
 const pagesDir = './pages/**/*.html';
 const componentsDir = './components';
 const contentDir = './content';

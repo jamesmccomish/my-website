@@ -8,67 +8,53 @@ I should also say that I managed to miss a few days, giving a total of 360 photo
 
 All pics are unedited and shot with some 2018 Huawei phone. I've put 12 of them below, and if you're bored you can see the rest [here](https://drive.google.com/drive/folders/1rWe9iwW4dvN-wenIMZorUx2-BLgQus3l?usp=sharing)
 
-<style>
-  .photo-grid {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 4px;
-    margin-bottom: 1em;
-  }
-  
-  .photo-grid img {
-    width: 100%;
-    display: block;
-  }
-</style>
-
 <div class="photo-grid">
     <div>
-        <img src="1-1.jpg" alt="January 1">
+        <img src="1-1.jpg" alt="January 1" loading="lazy">
         <figcaption>January 1</figcaption>
     </div>
     <div>
-        <img src="1-12.jpg" alt="January 12">
+        <img src="1-12.jpg" alt="January 12" loading="lazy">
         <figcaption>January 12</figcaption>
     </div>
     <div>
-        <img src="2-6.jpg" alt="February 6">
+        <img src="2-6.jpg" alt="February 6" loading="lazy">
         <figcaption>February 6</figcaption>
     </div>
     <div>
-        <img src="3-1.jpg" alt="March 1">
+        <img src="3-1.jpg" alt="March 1" loading="lazy">
         <figcaption>March 1</figcaption>
     </div>
     <div>
-        <img src="4-4.jpg" alt="April 4">
+        <img src="4-4.jpg" alt="April 4" loading="lazy">
         <figcaption>April 4</figcaption>
     </div>
     <div>
-        <img src="4-19.jpg" alt="April 19">
+        <img src="4-19.jpg" alt="April 19" loading="lazy">
         <figcaption>April 19</figcaption>
     </div>
     <div>
-        <img src="4-25.jpg" alt="April 25">
+        <img src="4-25.jpg" alt="April 25" loading="lazy">
         <figcaption>April 25</figcaption>
     </div>
     <div>
-        <img src="6-6.jpg" alt="June 6">
+        <img src="6-6.jpg" alt="June 6" loading="lazy">
         <figcaption>June 6</figcaption>
     </div>
     <div>
-        <img src="6-27.jpg" alt="June 27">
+        <img src="6-27.jpg" alt="June 27" loading="lazy">
         <figcaption>June 27</figcaption>
     </div>
     <div>
-        <img src="9-25.jpg" alt="September 25">
+        <img src="9-25.jpg" alt="September 25" loading="lazy">
         <figcaption>September 25</figcaption>
     </div>
     <div>
-        <img src="11-1.jpg" alt="November 1">
+        <img src="11-1.jpg" alt="November 1" loading="lazy">
         <figcaption>November 1</figcaption>
     </div>
     <div>
-        <img src="12-15.jpg" alt="December 15">
+        <img src="12-15.jpg" alt="December 15" loading="lazy">
         <figcaption>December 15</figcaption>
     </div>
 </div>
