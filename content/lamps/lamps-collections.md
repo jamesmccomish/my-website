@@ -51,7 +51,7 @@
   <h2>Merrylegs</h2>
   <div class="collection-date">Dec 2018</div>
   <p class="collection-description">
-    Merrylegs was the first lamp I made. Alicia gave me a box of things which included the bike wheel and I decided to make something with it. The wheel spins freely around the lamp and creates a pattern on the wall.
+    Merrylegs was the first lamp I made. Alicia gave me a box of things which included the bike wheel and I decided to make something with it. The wheel spins freely around the lamp and creates a nice pattern on the wall.
   </p>
   <div class="lamp-grid">
     <img src="merrylegs-main.jpg" alt="Wheel lamp" loading="lazy" class="full-width">
@@ -115,7 +115,7 @@
   <h2>Trinity</h2>
   <div class="collection-date">Aug 2019</div>
   <p class="collection-description">
-    Trinity was the first series of lamps, and it was when I started developing more of a process for making batches of lamps with consistent dimensions. The lamps all feature a central concrete block and 12 steel poles, and the idea was to make the usually cold and hard materials look more natural and lightweight.
+    Trinity was the first series of lamps, and it was when I started developing more of a process for making batches of lamps with consistent dimensions. The lamps all feature a central concrete block and 12 steel poles, the idea was to make the usually cold and hard materials look more natural and lightweight.
   </p>
   <div class="lamp-grid" style="margin-bottom: 0;">
     <img src="trinity-bottom.jpg" alt="Trinity lamp 1" loading="lazy">
@@ -140,10 +140,10 @@
 
 <div class="lamp-collection">
   <h2>Bubbles</h2>
-  <p class="collection-description">
-    Bubbles was a continuation of some ideas I'd had while building Crackhead. Was more of a move towards sculpture than a useful lamp, and the curves were a bit of a pain to make consistently.
-  </p>
   <div class="collection-date">Oct 2019</div>
+  <p class="collection-description">
+    Bubbles was a continuation of some ideas I'd had while building Crackhead. It was more of a move towards sculpture than a useful lamp, and the curves were a bit of a pain to make consistently.
+  </p>
   <div class="lamp-grid">
     <img src="bubbles-side.jpg" alt="Bubbles lamp 2" loading="lazy">
     <img src="bubbles-back.jpg" alt="Bubbles lamp 2" loading="lazy">
@@ -225,6 +225,13 @@
     <img src="tr-banner1.jpg" alt="Tube Runner banner" loading="lazy" class="full-width">
     <img src="tr-corner.jpg" alt="Tube Runner corner" loading="lazy">
     <img src="tr-angel.jpg" alt="Tube Runner angle" loading="lazy">
+  </div>
+</div>
+
+<div class="lamp-collection">
+  <h2>Zero</h2>
+  <div class="collection-date">Jan 2021</div>
+  <div class="lamp-grid">
     <img src="zero-scene.jpg" alt="Zero scene" loading="lazy" class="full-width">
     <img src="zero-top.jpg" alt="Zero top" loading="lazy">
     <img src="zero-front.jpg" alt="Zero front" loading="lazy">
@@ -267,3 +274,5 @@
     <img src="cw-low-side.jpg" alt="Colour Wheel off" loading="lazy">
   </div>
 </div>
+
+<div style="margin-bottom: 2em;"></div>

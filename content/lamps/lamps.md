@@ -27,17 +27,17 @@ Since I had to buy some tools and lamp paraphernalia for this project, I decided
     <img src="sputnik-on.jpg" alt="Sputnik" loading="lazy" style="width: 100%;">
     <img src="a1.jpg" alt="A1" loading="lazy" style="width: 100%;">
 </div>
-<figcaption>4 Lamps from the Trinity series. Clockwise TL: Riot Van, Jellyfish, Sputnik, A1</figcaption>
+<figcaption>4 Lamps from the Trinity series. Clockwise TL: Riot Van, Jellyfish, A1, Sputnik</figcaption>
 <div style="margin-bottom: 1em;"></div>
 
 <p>
 By the end of 2019 the lamps had levelled up from a hobby to a side income, and I was selling them and attending a lot of design events and markets around Barcelona. The lamps themselves were getting more adventurous, and since people were actually buying them, the process of making them had to get a lot better too. Both those things were problems cause I was still working out of my bedroom. I had a corner dedicated to setting concrete, a desk for cutting metal, and then decided that I needed a second workbench for assembly more than a bed, so I sold that and built a standing desk with a 70cm wide truck bed below for sleeping. 
 </p>
 
-<div style="display: flex; gap: 4px; width: 100%;">
-    <img src="desk-build-1.jpg" alt="Bed and workbench" style="width: 33.33%;" loading="lazy">
-    <img src="desk-use-1.jpg" alt="Bed and workbench" style="width: 33.33%;" loading="lazy">
-    <img src="desk-use-2.jpg" alt="Bed and workbench" style="width: 33.33%;" loading="lazy">
+<div style="display: flex; gap: 2px; width: 100%;">
+    <img src="desk-build-1.jpg" alt="Bed and workbench" style="width: 33%;" loading="lazy">
+    <img src="desk-use-1.jpg" alt="Bed and workbench" style="width: 33%;" loading="lazy">
+    <img src="desk-use-2.jpg" alt="Bed and workbench" style="width: 33%;" loading="lazy">
 </div>
 <figcaption>My bed / workbench when I started building bigger lamps.</figcaption>
 <div style="margin-bottom: 1em;"></div>
@@ -74,17 +74,18 @@ Coming out of the lockdowns at the end of 2020, I was shifting away from the mor
 I was as excited about going full time on the lamps as before, and reevaluated the idea of moving into a workshop dedicated to the new larger lamps, but in the end I never did. I applied to build installations for a few light festivals around Barcelona and northern Spain in early 2021 which would have provided funding to get off the ground, but due to another wave of covid, they were all cancelled. It was not certain when events like this would become normal again, and I wasn’t financially in a position to take the risk of going full time without them. I decided to put the larger work on hold, and continued to make some of the smaller series for friends who were still putting in orders, but eventually put that on hold too. 
 </p>
 
-<div style="display: flex; justify-content: space-between; width: 100%; gap: 4px;">
-<img src="tr-corner.jpg" alt="Tube Runner" style="width: 33.33%;" loading="lazy"> 
-<img src="metro-off.jpg" alt="Metro" style="width: 33.33%;" loading="lazy">
-<img src="zero-front.jpg" alt="Zero" style="width: 33.33%;" loading="lazy"> 
+<div style="display: flex; justify-content: space-between; width: 100%; gap: 2px;">
+<img src="tr-corner.jpg" alt="Tube Runner" style="width: 33%;" loading="lazy"> 
+<img src="metro-off.jpg" alt="Metro" style="width: 33%;" loading="lazy">
+<img src="zero-front.jpg" alt="Zero" style="width: 33%;" loading="lazy"> 
 </div>
 <figcaption>Tube Runner (Aug 2020), Metro (June2020), Zero (Jan 2021) </figcaption>
 <div style="margin-bottom: 1em;"></div>
 
-While playing about with the 3D printer I started to have fun with programming again after having moved away from engineering at Roboyo when I went part time a few years before. When I realised I wasn't going to push ahead with the lamps, I was open to doing something new, and took some time in mid 2021 to again drift around and read a bit. I briefly entertained the idea of studying physics and even started getting back into maths to prep. It was an even worse financial decision than the lamps so obviously didn't go ahead, but it did lead me to a conversation with Peter that was the beginning of another project, [Socii](../socii). 
+While playing about with the 3D printer I started to have fun with programming again after having moved away from engineering at Roboyo when I went part time a few years before. When I realised I wasn't going to push ahead with the lamps, I was open to doing something new, and took some time in mid 2021 to again drift around and read a bit. I briefly entertained the idea of studying physics and even started getting back into maths to prep. It was an even worse financial decision than the lamps so obviously didn't go ahead, but it did lead me to a conversation with Peter that was the beginning of another project, [Socii](../socii).
 
 The lamps were a great project and certainly one of the most enjoyable ways I have ever earned money in my life. Playing about with new materials, making parts with the 3D printer, and seeing people actually buy some of the experiments that worked was fun.
 
- When people ask I still say the lamp work is on hold, I do plan to get back into this at some point, but it's likely a lot of years away, and I'm not sure wtf lamps are going to look like by then. If you ever bought a lamp or gave feedback on one, thank you very much for the support, and if you'd like to put in a long-term pre-order for the return, please get in touch.   
-  
+<p>
+When people ask I still say the lamp work is on hold, I do plan to get back into this at some point, but it's likely a lot of years away, and I'm not sure wtf lamps are going to look like by then. If you ever bought a lamp or gave feedback on one, thank you very much for the support, and if you'd like to put in a long-term pre-order for the return, please get in touch.
+</p>

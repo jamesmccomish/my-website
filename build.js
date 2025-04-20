@@ -7,15 +7,10 @@ const pagesDir = './pages/**/*.html';
 const componentsDir = './components';
 const contentDir = './content';
 const outputDir = './public';
-const libDir = path.join(outputDir, 'lib');
 
 // Ensure output directories exist
 if (!fs.existsSync(outputDir)) {
   fs.mkdirSync(outputDir, { recursive: true });
-}
-
-if (!fs.existsSync(libDir)) {
-  fs.mkdirSync(libDir, { recursive: true });
 }
 
 // Create a directory for pre-processed content
@@ -165,6 +160,9 @@ const imageFiles = glob.sync(`${contentDir}/**/*.*`).filter(file => {
   return imageExtensions.includes(ext);
 });
 console.log(`Found ${imageFiles.length} images to copy`);
+
+// Copy the favicon
+fs.copyFileSync('./favicon.ico', path.join(outputDir, 'favicon.ico'));
 
 // Copy each image to the public directory maintaining the same structure
 imageFiles.forEach(file => {
