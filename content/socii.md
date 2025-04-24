@@ -9,11 +9,11 @@ When I was back in Belfast over summer in 2021, I met up with <a target="_blank"
 
 <h2>Into Apps</h2>
 <p>
-The app was built mostly in Typescript using React and it took me an embarrassingly long time to get the hang of things. Most of my coding had been in C (stuff for EE in uni and a couple of Arduino projects), VB (some work in RPA when I was an automation engineer at a startup called Roboyo), and a limited amount of Python. I wasn’t familiar with anything UI based and made a mess of handling state in React. It was all made worse by the fact that I basically hadn’t coded at all for 2 years before joining. At Roboyo I moved out of engineering and into managed operations, and I spent all my spare time on design work building <a href="./lamps">lamps</a>.
+The app was built mostly in Typescript using React and it took me an embarrassingly long time to get the hang of things. Most of my coding had been in C (stuff for EE in uni and a couple of Arduino projects), VB (some work in RPA when I was an automation engineer at a startup called Roboyo), and a limited amount of Python. I wasn’t familiar with anything UI based and made a mess of handling state in React. It was all made worse by the fact that I basically hadn’t coded at all for 2 years before joining. At Roboyo I moved out of engineering and into operations, and I spent all my spare time building <a href="./lamps">lamps</a>.
 </p>
 
 <p>
-We built out the MVP then applied to Y Combinator and got an interview, but in the end they ‘weren’t bullish on social investing’; feedback we considered but in the end disagreed with, so kept building. Turns out it is quite hard to start building a financial app — we were limited to ‘paper trading’ on a test environment and would have had to pay over £100k to get a licence to start touching real money, then we’d need more licences to trade in other countries. We didn’t have any money and needed to validate the idea before committing to anything like that.
+We built out the MVP then applied to Y Combinator and got an interview, but in the end they ‘weren’t bullish on social investing’; feedback we considered but in the end disagreed with, so kept building. Turns out it is quite hard to start building a financial app... we were limited to ‘paper trading’ on a test environment and would have had to pay over £100k to get a licence to start touching real money, then we’d need more licences to trade in other countries. We didn’t have any money and needed to validate the idea before committing to anything like that.
 </p>
 
 <div style="margin-bottom: 1em;"></div>
