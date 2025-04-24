@@ -2,7 +2,7 @@
 
 <h2>Group Chat Investing App Turned Crypto Multisig</h2>
 <p>
-When I was back in Belfast over summer in 2021, I met up with Peter and he showed me a cool prototype for an app he’d built which let friends propose trades and buy stocks from a group chat. I thought it was an interesting idea and seen it as something I would use, so decided I’d join him to try to build it into a product. Peter quit his job that summer and I quit a few months after to go full time on the project, my first serious attempt to build an app. It was originally called Socii and over 3 years it would pivot (a few times) into what became <a href="./onit">Onit</a>.
+When I was back in Belfast over summer in 2021, I met up with <a target="_blank" href="https://github.com/peterferguson">Peter</a> and he showed me a cool prototype for an app he’d built which let friends propose trades and buy stocks from a group chat. I thought it was an interesting idea and seen it as something I would use, so decided I’d join him to try to build it into a product. Peter quit his job that summer and I quit a few months after to go full time on the project, my first serious attempt to build an app. It was originally called Socii and over 3 years it would pivot (a few times) into what became <a href="./onit">Onit</a>.
 </p>
 
 <div style="margin-bottom: 1em;"></div>

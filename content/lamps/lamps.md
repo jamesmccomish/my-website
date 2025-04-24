@@ -4,7 +4,7 @@
 <div style="margin-bottom: 1em;"></div>
 
 <p>
-I moved to Barcelona in summer 2017 without much of a plan, mostly because it was a nice place, I heard it was good for startups, and Ben was moving back after having lived there the year before. For a few months I drifted around and done random things to avoid having to get an actual job. I would fix up furniture that I found on the street and sell it on a second hand site, I worked part time at a Japanese restaurant (Koku), and I spent a lot of time reading. Eventually (about 4 months later) I completely ran out of money and had to move back to London, where I went to uni, for a few months to work on a project to earn enough to live in Barcelona some more. 
+I moved to Barcelona in summer 2017 without much of a plan, mostly because it was a nice place, I heard it was good for startups, and <a target="_blank" href="https://linktr.ee/bennycalico">Ben</a> was moving back after having lived there the year before. For a few months I drifted around and done random things to avoid having to get an actual job. I would fix up furniture that I found on the street and sell it on a second hand site, I worked part time at a Japanese restaurant (Koku), and I spent a lot of time reading. Eventually (about 4 months later) I completely ran out of money and had to move back to London, where I went to uni, for a few months to work on a project to earn enough to live in Barcelona some more. 
 </p>
 
 <p>
@@ -82,9 +82,13 @@ I was as excited about going full time on the lamps as before, and reevaluated t
 <figcaption>Tube Runner (Aug 2020), Metro (June2020), Zero (Jan 2021) </figcaption>
 <div style="margin-bottom: 1em;"></div>
 
-While playing about with the 3D printer I started to have fun with programming again after having moved away from engineering at Roboyo when I went part time a few years before. When I realised I wasn't going to push ahead with the lamps, I was open to doing something new, and took some time in mid 2021 to again drift around and read a bit. I briefly entertained the idea of studying physics and even started getting back into maths to prep. It was an even worse financial decision than the lamps so obviously didn't go ahead, but it did lead me to a conversation with Peter that was the beginning of another project, [Socii](../socii).
+<p>
+While playing about with the 3D printer I started to have fun with programming again after having moved away from engineering at Roboyo when I went part time a few years before. When I realised I wasn't going to push ahead with the lamps, I was open to doing something new, and took some time in mid 2021 to again drift around and read a bit. I briefly entertained the idea of studying physics and even started getting back into maths to prep. It was an even worse financial decision than the lamps so obviously didn't go ahead, but it did lead me to a conversation with <a target="_blank" href="https://github.com/peterferguson">Peter</a> that was the beginning of another project, <a href="../socii">Socii</a>.
+</p>
 
+<p>
 The lamps were a great project and certainly one of the most enjoyable ways I have ever earned money in my life. Playing about with new materials, making parts with the 3D printer, and seeing people actually buy some of the experiments that worked was fun.
+</p>
 
 <p>
 When people ask I still say the lamp work is on hold, I do plan to get back into this at some point, but it's likely a lot of years away, and I'm not sure wtf lamps are going to look like by then. If you ever bought a lamp or gave feedback on one, thank you very much for the support, and if you'd like to put in a long-term pre-order for the return, please get in touch.
