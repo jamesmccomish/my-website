@@ -93,3 +93,7 @@ The lamps were a great project and certainly one of the most enjoyable ways I ha
 <p>
 When people ask I still say the lamp work is on hold, I do plan to get back into this at some point, but it's likely a lot of years away, and I'm not sure wtf lamps are going to look like by then. If you ever bought a lamp or gave feedback on one, thank you very much for the support, and if you'd like to put in a long-term pre-order for the return, please get in touch.
 </p>
+
+<p>
+You can find pictures of all 14 collections <a href="./lamp-collections.html">here</a>
+</p>
