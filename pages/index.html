@@ -159,6 +159,12 @@
         <a target="_blank" href="https://farcaster.xyz/jamco.eth">Farcaster</a> | <a target="_blank"
             href="https://github.com/jamesmccomish">Github</a>
     </p>
+
+    <script type="module">
+        import { sdk } from 'https://esm.sh/@farcaster/miniapp-sdk'
+        // Tell Farcaster the app is ready to display
+        await sdk.actions.ready()
+    </script>
 </body>
 
 </html>

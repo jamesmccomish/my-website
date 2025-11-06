@@ -8,10 +8,6 @@ The Onit protocol consists of smart contracts, an API, and an SDK that anyone ca
 
 Links:
 
-<a target="_blank" href="https://onit.fun">App</a>
-
-<a target="_blank" href="https://paragraph.com/@onit/" >Articles</a>
-
-<a target="_blank" href="https://github.com/onit-labs/pm-contracts">Github</a>
+<a target="_blank" href="https://onit.fun">App</a> | <a target="_blank" href="https://paragraph.com/@onit/" >Articles</a> | <a target="_blank" href="https://github.com/onit-labs/pm-contracts">Github</a>
 
 <div style="margin-bottom: 2em;"></div>

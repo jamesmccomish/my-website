@@ -1,0 +1,23 @@
+{
+    "accountAssociation": {
+        "header": "eyJmaWQiOjgxNzMsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHhDMmQ5MjMyMzU4NzljZjI2QzU0MGY2NjAxRDM5MGNFNEM4M2IyY2IzIn0",
+        "payload": "eyJkb21haW4iOiJqYW1lc21jY29taXNoLmNvbSJ9",
+        "signature": "Or/arGtbPpFDoS4rRy1cJnIX2XoVJfMb92eb97u6nMQalwGmFxUQMZ/3DqiBKWWkjeLnMPsN1dFKIdi1XNA63xw="
+    },
+    "miniapp": {
+        "name": "My Website",
+        "version": "1",
+        "iconUrl": "https://jamesmccomish.com/avatar.png",
+        "homeUrl": "https://jamesmccomish.com",
+        "imageUrl": "https://jamesmccomish.com/avatar.png",
+        "buttonTitle": "Hello",
+        "splashImageUrl": "https://jamesmccomish.com/avatar.png",
+        "splashBackgroundColor": "#f5f5f5",
+        "subtitle": "A website about me",
+        "description": "A website about me and some things I've worked on",
+        "primaryCategory": "social",
+        "ogTitle": "My Website",
+        "ogDescription": "A website about me and some things I've worked on",
+        "ogImageUrl": "https://jamesmccomish.com/avatar.png"
+    }
+}

@@ -8,10 +8,6 @@ For now outcome data comes from the Polymarket API, but any condition prepared o
 
 Links:
 
-<a target="_blank" href="https://megaparlay.xyz">App</a>
-
-<a target="_blank" href="https://polygonscan.com/address/0x29de9089705bf45f220cfcfdb3658abae5f47e75#code">Contract</a>
-
-<a target="_blank" href="https://github.com/jamesmccomish/megaparlay">Github</a>
+<a target="_blank" href="https://megaparlay.xyz">App</a> | <a target="_blank" href="https://polygonscan.com/address/0x29de9089705bf45f220cfcfdb3658abae5f47e75#code">Contract</a> | <a target="_blank" href="https://github.com/jamesmccomish/megaparlay">Github</a>
 
 <div style="margin-bottom: 2em;"></div>
