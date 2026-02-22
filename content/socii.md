@@ -2,14 +2,14 @@
 
 <h2>Group Chat Investing App Turned Crypto Multisig</h2>
 <p>
-When I was back in Belfast over summer in 2021, I met up with <a target="_blank" href="https://github.com/peterferguson">Peter</a> and he showed me a cool prototype for an app he’d built which let friends propose trades and buy stocks from a group chat. I thought it was an interesting idea and seen it as something I would use, so decided I’d join him to try to build it into a product. Peter quit his job that summer and I quit a few months after to go full time on the project, my first serious attempt to build an app. It was originally called Socii and over 3 years it would pivot (a few times) into what became <a href="./onit">Onit</a>.
+When I was back in Belfast over summer in 2021, I met up with <a target="_blank" href="https://github.com/peterferguson">Peter</a> and he showed me a cool prototype for an app he’d built which let friends propose trades and buy stocks from a group chat. I thought it was an interesting idea and seen it as something I would use, so decided I’d join him to try to build it into a product. Peter quit his job that summer and I quit a few months after to go full time on the project, my first serious attempt to build an app. It was originally called Socii and over 3 years it would pivot (a few times) into what became <a href="./onit.html">Onit</a>.
 </p>
 
 <div style="margin-bottom: 1em;"></div>
 
 <h2>Into Apps</h2>
 <p>
-The app was built mostly in Typescript using React and it took me an embarrassingly long time to get the hang of things. Most of my coding had been in C (stuff for EE in uni and a couple of Arduino projects), VB (some work in RPA when I was an automation engineer at a startup called Roboyo), and a limited amount of Python. I wasn’t familiar with anything UI based and made a mess of handling state in React. It was all made worse by the fact that I basically hadn’t coded at all for 2 years before joining. At Roboyo I moved out of engineering and into operations, and I spent all my spare time building <a href="./lamps">lamps</a>.
+The app was built mostly in Typescript using React and it took me an embarrassingly long time to get the hang of things. Most of my coding had been in C (stuff for EE in uni and a couple of Arduino projects), VB (some work in RPA when I was an automation engineer at a startup called Roboyo), and a limited amount of Python. I wasn’t familiar with anything UI based and made a mess of handling state in React. It was all made worse by the fact that I basically hadn’t coded at all for 2 years before joining. At Roboyo I moved out of engineering and into operations, and I spent all my spare time building <a href="./lamps.html">lamps</a>.
 </p>
 
 <p>
@@ -119,7 +119,7 @@ I would (if it didn't involve a painful amount of maintenance) certainly continu
 </p>
 
 <p>
-As far as first attempts at a startup go, I'd say Socii was a moderate success. The product evolved to a state that was public and usable and solved some of the initial issues we considered at the very beginning. We went from no experience in apps or blockchain to receiving funding, developing the first ever passkey wallet, and building a great network of other developers and founders in the space. The underlying idea was not validated, but I don't think even if we had a 10x smoother app that would have changed. Either that behaviour emerges in some years, or we were wrong all together, but pivoting at the point we did feels correct. Also it was a lot of work, constantly challenging, and even now that we moved on, I am excited to build what Socii eventually <a href="./onit">pivoted into</a>.
+As far as first attempts at a startup go, I'd say Socii was a moderate success. The product evolved to a state that was public and usable and solved some of the initial issues we considered at the very beginning. We went from no experience in apps or blockchain to receiving funding, developing the first ever passkey wallet, and building a great network of other developers and founders in the space. The underlying idea was not validated, but I don't think even if we had a 10x smoother app that would have changed. Either that behaviour emerges in some years, or we were wrong all together, but pivoting at the point we did feels correct. Also it was a lot of work, constantly challenging, and even now that we moved on, I am excited to build what Socii eventually <a href="./onit.html">pivoted into</a>.
 </p>
 
 <div style="margin-bottom: 2em;"></div>

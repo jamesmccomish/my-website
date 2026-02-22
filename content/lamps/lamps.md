@@ -83,7 +83,7 @@ I was as excited about going full time on the lamps as before, and reevaluated t
 <div style="margin-bottom: 1em;"></div>
 
 <p>
-While playing about with the 3D printer I started to have fun with programming again after having moved away from engineering at Roboyo when I went part time a few years before. When I realised I wasn't going to push ahead with the lamps, I was open to doing something new, and took some time in mid 2021 to again drift around and read a bit. I briefly entertained the idea of studying physics and even started getting back into maths to prep. It was an even worse financial decision than the lamps so obviously didn't go ahead, but it did lead me to a conversation with <a target="_blank" href="https://github.com/peterferguson">Peter</a> that was the beginning of another project, <a href="../socii">Socii</a>.
+While playing about with the 3D printer I started to have fun with programming again after having moved away from engineering at Roboyo when I went part time a few years before. When I realised I wasn't going to push ahead with the lamps, I was open to doing something new, and took some time in mid 2021 to again drift around and read a bit. I briefly entertained the idea of studying physics and even started getting back into maths to prep. It was an even worse financial decision than the lamps so obviously didn't go ahead, but it did lead me to a conversation with <a target="_blank" href="https://github.com/peterferguson">Peter</a> that was the beginning of another project, <a href="../socii.html">Socii</a>.
 </p>
 
 <p>
